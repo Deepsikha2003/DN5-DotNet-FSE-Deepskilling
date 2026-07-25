@@ -1,108 +1,143 @@
 # DN5-DotNet-FSE-Deepskilling
 
-# Digital Nurture 5.0 – DotNet Full Stack Engineer (FSE) Deep Skilling
+> **Cognizant Digital Nurture 5.0 – DotNet Full Stack Engineer Track**
 
-## 👩‍💻 Candidate Information
-
-| Field | Details |
-|-------|---------|
-| Candidate Name | Deepsikha Patra |
-| University | C.V. Raman Global University |
-| Branch | Computer Science Engineering (AI & ML) |
-| Program | Cognizant Digital Nurture 5.0 |
-| Track | DotNet Full Stack Engineer (FSE) |
-| Repository Purpose | Hands-on Exercises, Assignments, Practice Programs, and Learning Activities |
+A collection of all mandatory hands-on exercises, assignments, and practice implementations completed during the Cognizant Digital Nurture 5.0 program. This repository demonstrates practical experience across backend development, frontend development, databases, testing, software engineering principles, and version control.
 
 ---
 
-# 📚 Program Curriculum
-
-This repository contains the mandatory hands-on exercises, assignments, and practice programs covered in the Cognizant Digital Nurture 5.0 DotNet Full Stack Engineer (FSE) learning program.
-
-## Course Modules
-
-| Module | Technology / Topic |
-|---------|--------------------|
-| 01 | Design Principles & Design Patterns |
-| 02 | Data Structures & Algorithms |
-| 03 | Advanced SQL Server |
-| 04 | NUnit & Moq |
-| 05 | Entity Framework Core 8.0 |
-| 06 | ASP.NET Core 8.0 Web API |
-| 07 | Microservices using ASP.NET Core |
-| 08 | React JS |
-| 09 | Git & GitHub |
-| 10 | Angular |
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-# 🛠 Hands-on Exercises Included
+## Overview
 
-This repository includes practical implementations covering:
+Throughout this program, I implemented concepts ranging from software engineering principles and database development to ASP.NET Core Web APIs, Entity Framework Core, React applications, unit testing, and version control.
 
-- Design Principles
-- SOLID Principles
-- Singleton Pattern
-- Factory Method Pattern
-- E-Commerce Search Algorithms
-- Financial Forecasting
-- Ranking & Window Functions
-- SQL Indexes
-- Stored Procedures
-- SQL Functions
-- NUnit Testing
-- Moq Framework
-- Entity Framework Core 8.0 Labs
-- ASP.NET Core Web API Hands-ons
-- JWT Authentication
-- React Hands-on Exercises
-- Git & GitHub Exercises
-- Angular Hands-on Exercises
+Every module in this repository was completed as part of the Digital Nurture learning path with emphasis on writing clean, maintainable, and practical code.
 
 ---
 
-# 🎯 Learning Objectives
-
-Through this program, I aim to:
-
-- Build strong problem-solving and programming skills.
-- Learn object-oriented programming and software design principles.
-- Develop scalable and maintainable applications using .NET technologies.
-- Gain hands-on experience with SQL Server and database programming.
-- Understand unit testing using NUnit and Moq.
-- Build applications using Entity Framework Core.
-- Develop RESTful APIs using ASP.NET Core.
-- Learn Microservices architecture and JWT Authentication.
-- Build responsive front-end applications using React and Angular.
-- Practice Git and GitHub workflows used in professional software development.
-
----
-
-# 📂 Repository Structure
+## Repository Structure
 
 ```text
 DN5-DotNet-FSE-Deepskilling
 │
 ├── 01-Engineering-Concepts
 ├── 02-Advanced-SQL
-├── 03-NUnit-Moq
-├── 04-Entity-Framework-Core
-├── 05-ASP.NET-Core-WebAPI
+├── 03-NUnit-and-Moq
+├── 04-EFCore
+├── 05-WebAPI
 ├── 06-Microservices
-├── 07-React
+├── 07-Angular
 ├── 08-Git
-├── 09-Angular
-│
-├── README.md
-└── .gitignore
+└── 09-React
 ```
-
-> Each module contains the mandatory hands-on exercises, assignments, source code, and supporting files completed as part of the Cognizant Digital Nurture 5.0 learning journey.
 
 ---
 
-# 📌 Note
+## Module Summary
 
-This repository is maintained for educational purposes as part of the Cognizant Digital Nurture 5.0 DotNet Full Stack Engineer (FSE) program. It serves as a collection of practical implementations and coding exercises completed throughout the training.
+| Module | Description | Status |
+|---------|-------------|:------:|
+| 01 – Engineering Concepts | SOLID Principles, Design Patterns | ✔ |
+| 02 – Advanced SQL | SQL Queries, Views, Joins, Stored Procedures | ✔ |
+| 03 – NUnit & Moq | Unit Testing and Mocking | ✔ |
+| 04 – Entity Framework Core | LINQ, CRUD, Relationships, Migrations | ✔ |
+| 05 – ASP.NET Core Web API | REST APIs, DTOs, Dependency Injection, Filters | ✔ |
+| 06 – Microservices | Microservice Architecture | ✔ |
+| 07 – Angular | Angular Fundamentals & Hands-ons | ✔ |
+| 08 – Git | Version Control & Git Workflow | ✔ |
+| 09 – React | React Hands-on Labs (HOL1–HOL13) | ✔ |
 
-Git HOL 4 - Branch A & Branch B
+---
+
+## Tech Stack
+
+### Languages
+
+- C#
+- JavaScript (ES6)
+- SQL
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+
+- .NET 8
+- ASP.NET Core Web API
+- Entity Framework Core
+- React
+- NUnit
+- Moq
+
+### Database
+
+- SQL Server
+
+### Development Tools
+
+- Visual Studio Code
+- Visual Studio 2022
+- SQL Server Management Studio
+- Swagger
+- Git
+- GitHub
+- Postman
+
+---
+
+## Skills Demonstrated
+
+- Object-Oriented Programming
+- SOLID Principles
+- Design Patterns
+- Database Design & SQL
+- Entity Framework Core
+- RESTful API Development
+- Dependency Injection
+- Unit Testing
+- Mocking
+- React Component Development
+- State & Props Management
+- Git & GitHub Workflow
+
+---
+
+## Repository Statistics
+
+- ✔ All mandatory hands-on exercises completed
+- ✔ Structured module-wise implementation
+- ✔ Individual projects organized by technology
+- ✔ Clean folder hierarchy
+- ✔ Version controlled using Git & GitHub
+
+---
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Deepsikha2003/DN5-DotNet-FSE-Deepskilling.git
+```
+
+---
+
+## About Me
+
+**Deepsikha Patra**
+
+B.Tech – Computer Science & Engineering (AI & ML)
+
+C.V. Raman Global University
+
+- GitHub: https://github.com/Deepsikha2003
+- LinkedIn: https://www.linkedin.com/in/deepsikha-patra/
+- Portfolio: https://linktr.ee/deepsikhapatra2003
+
+---
+
+> *"Learning by building. Improving by practicing. Growing by staying consistent."*
